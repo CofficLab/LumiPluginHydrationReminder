@@ -27,7 +27,7 @@
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/CofficLab/LumiPluginHydrationReminder.git", from: "1.0.0")
+    .package(url: "https://github.com/lumi-softworks/LumiPluginHydrationReminder.git", from: "1.0.0")
 ]
 ```
 
