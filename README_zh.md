@@ -2,7 +2,7 @@
 
 📖 [中文版](README_zh.md) | [English](README.md)
 
-「喝水提醒」插件的共享远程包，供 Lumi、Wakey 等 CofficLab 兄弟应用共同装配。
+「喝水提醒」插件的共享远程包，供 Lumi、Wakey 等 Lumi 家族兄弟应用共同装配。
 
 > 本插件不依赖其他插件。菜单栏、设置、文档和存储均通过 Provider 契约接入；
 > 通用提醒能力由 `LumiKitReminder` 提供。
